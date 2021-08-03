@@ -13,3 +13,8 @@ But here we need to initialize certain keypoints which is QuantumInstance, ZZFea
   
 A feature map is related to dimensionality reduction; it involves reducing the amount of resources required to describe a large set of data.
 Quantum Instance holds a Qiskit Terra backend as well as configuration for circuit transpilation and execution. When provided to an Aqua algorithm the algorithm will execute the circuits it needs to run using the instance.
+
+<b> Data used </b>
+
+For this notebook, I have used ad-hoc dataset which is available from qiskit itself.
+It can be accessed from **"qiskit.ml.datasets"**
