@@ -10,5 +10,5 @@ Since I did this notebook from quantum approach, I would like to classify the SV
 In quantum field, we have a specified library called QSVM which we can use similar to sklearn SVM.
 But here we need to initialize certain keypoints which is QuantumInstance, ZZFeatureMap.
   
-A **feature map** is related to dimensionality reduction; it involves reducing the amount of resources required to describe a large set of data.
-**Quantum Instance** holds a Qiskit Terra backend as well as configuration for circuit transpilation and execution. When provided to an Aqua algorithm the algorithm will execute the circuits it needs to run using the instance.
+A feature map is related to dimensionality reduction; it involves reducing the amount of resources required to describe a large set of data.
+Quantum Instance holds a Qiskit Terra backend as well as configuration for circuit transpilation and execution. When provided to an Aqua algorithm the algorithm will execute the circuits it needs to run using the instance.
