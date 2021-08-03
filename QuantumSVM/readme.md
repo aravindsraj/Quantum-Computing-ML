@@ -7,6 +7,7 @@ Then, we perform classification by finding the hyper-plane that differentiates t
 Since I did this notebook from quantum approach, I would like to classify the SVM into two approaches. First as classical SVM and other one is quantum SVM.
 
 <b> Quantum SVM </b>
+
 In quantum field, we have a specified library called QSVM which we can use similar to sklearn SVM.
 But here we need to initialize certain keypoints which is QuantumInstance, ZZFeatureMap.
   
